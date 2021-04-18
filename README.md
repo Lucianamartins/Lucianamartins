@@ -1,6 +1,7 @@
 
-## Hey! Welcome to my profile!
 
+## Hey! Welcome to my profile!
+<img align="right" src="https://github.com/Lucianamartins/Lucianamartins/blob/main/frontEnd.png?raw=true" width="350"/>
 My name is Luciana Martins
 
 I am a student to FrontEnd. 💻
