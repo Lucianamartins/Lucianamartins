@@ -4,7 +4,7 @@
 <img align="right" src="https://github.com/Lucianamartins/Lucianamartins/blob/main/frontEnd.png?raw=true" width="350"/>
 My name is Luciana Martins
 
-I am a student to FrontEnd. 💻
+I am a student to back end. 💻
 
 I am always open to new challenges and ready for change.
 
